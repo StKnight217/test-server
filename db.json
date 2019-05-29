@@ -5,6 +5,14 @@
       "title": "hello"
     }
   ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Ilya",
+      "password": "qwerty",
+      "role": "Administrator"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
