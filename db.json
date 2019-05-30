@@ -5,12 +5,14 @@
       "title": "hello"
     }
   ],
-  "users": [
+  "Users": [
     {
-      "id": 0,
-      "name": "Ilya",
-      "password": "qwerty",
-      "role": "Administrator"
+      "Login": "Ilya",
+      "Password": "qwerty",
+      "FirstName": "Administrator",
+      "SecondName": "Administrator",
+      "RoleID": null,
+      "TeamID": null
     }
   ],
   "profile": {
