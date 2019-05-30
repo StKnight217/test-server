@@ -7,6 +7,7 @@
   ],
   "Users": [
     {
+      "id": 0,
       "Login": "Ilya",
       "Password": "qwerty",
       "FirstName": "Administrator",
