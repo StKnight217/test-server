@@ -11,8 +11,8 @@
       "Password": "qwerty",
       "FirstName": "Administrator",
       "SecondName": "Administrator",
-      "RoleID": null,
-      "TeamID": null
+      "RoleID": "",
+      "TeamID": ""
     }
   ],
   "profile": {
